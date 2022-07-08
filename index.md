@@ -1,7 +1,7 @@
 # Eric's Street Designs
 
 
-## 96th St and Broadway [title](https://www.example.com) ![alt text](96bettering.jpg)
+## 96th St and Broadway [title](/p2) ![alt text](96bettering.jpg)
 
 ## 1st Ave [title](https://www.example.com)
 
